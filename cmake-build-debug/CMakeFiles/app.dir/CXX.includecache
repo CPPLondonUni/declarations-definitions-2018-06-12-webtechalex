@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/alexanderbrown/Documents/Projects/CPPLU/declarations-definitions-2018-06-12-webtechalex/main.cpp
+iostream
+-
+string
+-
+utility.h
+/Users/alexanderbrown/Documents/Projects/CPPLU/declarations-definitions-2018-06-12-webtechalex/utility.h
+
+/Users/alexanderbrown/Documents/Projects/CPPLU/declarations-definitions-2018-06-12-webtechalex/utility.cpp
+iostream
+-
+utility.h
+/Users/alexanderbrown/Documents/Projects/CPPLU/declarations-definitions-2018-06-12-webtechalex/utility.h
+
+/Users/alexanderbrown/Documents/Projects/CPPLU/declarations-definitions-2018-06-12-webtechalex/utility.h
+string
+-
+
